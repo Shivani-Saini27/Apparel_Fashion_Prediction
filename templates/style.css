@@ -1,0 +1,29 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.header
+{
+	height: 10vh;
+}
+.navbar-default
+{
+	box-shadow: 0 5px 10px #efefef;
+}
+.logo
+{
+	height: 40px;
+	padding: 40px 10px;
+}
+.jumbotron
+{
+	margin-top: 20px;
+	background-size: cover;
+}
+a.button
+{
+	margin: 30px 10px;
+	width: 150px;
+	padding: 10px;
+	border-radius: 20px;
+}
